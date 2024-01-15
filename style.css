@@ -1,0 +1,175 @@
+body {
+    font-family: 'Instrument Serif', serif;
+    font-size: 81.25%;
+}
+
+section {
+    margin-bottom: 150px;
+}
+
+h1 {
+    font-size: 60px;
+    line-height: .4;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.heading {
+    background-image: url("donation13.jpg");
+    height: 450px;
+    padding-top: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
+
+.Donate-Now {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    background-color: rgb(81, 86, 88);
+    padding: 15px 30px;
+    border-radius: 7px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.two {
+    text-align: center;
+    font-size: 50px;
+}
+
+.seber {
+    display: flex;
+    margin-top: 4%;
+    justify-content: center;
+}
+
+.seber {
+    color: grey;
+    border: 2px solid white;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 15px;
+    display: inline-block;
+}
+
+#num-color {
+    border: 2px solid orangered;
+    color: orangered;
+}
+
+.other-amount {
+    border: 0;
+    border-bottom: 2px solid #868585;
+    display: block;
+    width: 60%;
+    margin: 20px auto;
+    padding: 10px 80px;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.three {
+    text-align: center;
+    font-size: 60;
+}
+
+.flexible {
+    display: flex;
+    margin-top: 4%;
+    justify-content: center;
+}
+
+#food {
+    text-align: left;
+    background-color: hsl(159, 82%, 93%);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.shelter {
+    text-align: left;
+    background-color: blueviolet;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.training {
+    text-align: left;
+    background-color: rgb(190, 150, 104);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.four {
+    text-align: center;
+    font-size: 25px;
+}
+
+.become {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    background-color: rgb(81, 86, 88);
+    padding: 15px 30px;
+    border-radius: 7px;
+    margin-top: 15px;
+}
+
+.five {
+    text-align: center;
+    background-color: rgb(218, 231, 226);
+    padding: 30px 30px;
+}
+
+.seven {
+    text-align: center;
+    font-size: 20px;
+}
+
+#email {
+    padding: 15px 35px;
+    margin-right: -6px;
+}
+
+.email-background {
+    background-color: rgb(179, 133, 76);
+    border-radius: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+#email {
+    color: black;
+    font-size: 20px;
+}
+
+.eight {
+    text-align: center;
+}
+
+.nine {
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(65, 15, 15);
+    color: antiquewhite;
+    padding: 15px;
+    border-radius: 10px;
+}
